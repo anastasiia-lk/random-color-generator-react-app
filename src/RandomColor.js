@@ -1,3 +1,4 @@
+// 'Unused code: First approach, moved to hooks'
 import React from 'react';
 
 const green = '#39D1B4';
